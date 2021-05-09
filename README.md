@@ -7,7 +7,5 @@ Checkout my hackaday.io page on this project.
 Video:
 https://youtu.be/xloVxoMGJ0Y [TODO: Point to actual video]
 
-![Thumbnail](/ThumbnailSmaller.jpg)
-
 ![screenshot](/screenshot.jpg)
 
